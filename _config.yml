@@ -1,0 +1,15 @@
+# Site settings
+title: Hi, I'm Harshal.
+description: Harshal Soman's professional portfolio site
+# baseurl: "/particle" # the subpath of your site, e.g. /blog
+# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+
+# User settings
+username: Harshal Soman
+user_title: 
+user_job_title: Aspiring Data Scientist
+email: somanharshal25 [at] gmail.com
+twitter_username: HarshalSoman1
+github_username:  harshalsoman
+
+exclude: ['package.json', 'src' , 'node_modules']
