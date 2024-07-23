@@ -13,5 +13,5 @@ document.addEventListener("DOMContentLoaded", function() {
         }, 500); // Match the CSS transition duration
     }
 
-    setInterval(updateTitle, 3500); // Change title every 3.5 seconds to include fade time
+    setInterval(updateTitle, 2000); // Change title every 3.5 seconds to include fade time
 });
